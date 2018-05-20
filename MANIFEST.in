@@ -1,0 +1,2 @@
+recursive-include aglomerados_subnormais/templates *
+recursive-include aglomerados_subnormais/static *
